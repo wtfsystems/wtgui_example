@@ -1,0 +1,9 @@
+.npmignore
+
+.vscode/
+*.code-workspace
+*_bak/
+
+out/
+dist/
+node_modules/
